@@ -1,7 +1,7 @@
 # Tools
-this repository include some tools useful
+this repository include some tools useful(maybe not).
 
-some have source code but some sorce code losed
+some have source code but some lost.
 
 I wrote these tools to save time, now share you! 
 
